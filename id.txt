@@ -1,0 +1,1 @@
+grp_id: sg-035d665fa5c2fff1b, instance_id: i-0415fcecea0269ccb, public_ip: 18.188.128.203, key_name: MyKeyPair
